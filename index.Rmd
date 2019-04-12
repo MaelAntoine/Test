@@ -33,6 +33,7 @@ plot(1,1)
 
 ## Including Plots
 
+Je suis un influenceur et j'aime l'eau
 You can also embed plots, for example:
 
 ```{r pressure}
